@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nid! </h1>
+<h1>Hi, I'm Nid!  I have a technical background and hold a Master of Science (M.S) degree in chemistry (Hassan II University) and Master of project Managment (Angers University) , majoring in Seismic Data Processing and Analysis. I had worked for 12 years in Oil & Gas refinery playing roles as Data Processing Engineer, and data Analyst.</h1>
 
 <h2>👨‍💻 Data Analyst & Sciences Projects:</h2>
 
