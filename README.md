@@ -1,5 +1,7 @@
 <h1>Hi, I'm NID</h1>
 
+Having a technical background and hold a Master of Science (M.S) degree in chemistry  (Hassan II University) & Master of project Managment (Angers University). I had worked for 12 years in Oil & gas playing roles as Data Processing Engineer and Data Analyst ,Head of laboratories Department.
+
 <h2>👨‍💻 Data Analyst & Sciences Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
