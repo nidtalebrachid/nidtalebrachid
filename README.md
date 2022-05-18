@@ -9,7 +9,7 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data analytics with Power BI</b>
-  - [BI Projects](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Human%20Resources)
+  - [BI Projects](https://github.com/nidtalebrachid/Power-BI-Projects)
   - [Human Resources](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Human%20Resources)
   - [Income Statement](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Income%20Statement)
   - [Logistic Fleet Managment](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Logistic%20Fleet%20Management)
