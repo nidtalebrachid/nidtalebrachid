@@ -10,7 +10,7 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data analytics with Power BI</b>
   - [Human Resources]([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Human%20Resources))
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Income Statement]([https://github.com/joshmadakor1/Jwipe.PowerShell](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Income%20Statement))
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
