@@ -5,9 +5,9 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
 <h2>👨‍💻 Data Analyst & Sciences Projects:</h2>
 
 - <b>Python Projects : </b>
-  - [unsupervised Machin Learning (Customers Segmentation) with Python](https://github.com/nidtalebrachid/Python-Projects/tree/main/Customers%20Segmentation%20using%20Unsupervised%20%20Machin%20Learning)
-  - [supervised Machin Learning (Bank Marketing) with Python](https://github.com/nidtalebrachid/Python-Projects/blob/main/Bank%20Marketing/Bank%20Marketing.ipynb)
-  -  [employee turnover with Python](https://github.com/nidtalebrachid/Python-Projects/blob/main/Employee%20Turnover/employees%20turnover%20.ipynb)
+  - [Unsupervised Machin Learning (Customers Segmentation) with Python](https://github.com/nidtalebrachid/Python-Projects/tree/main/Customers%20Segmentation%20using%20Unsupervised%20%20Machin%20Learning)
+  - [Supervised Machin Learning (Bank Marketing) with Python](https://github.com/nidtalebrachid/Python-Projects/blob/main/Bank%20Marketing/Bank%20Marketing.ipynb)
+  -  [Employee turnover with Python](https://github.com/nidtalebrachid/Python-Projects/blob/main/Employee%20Turnover/employees%20turnover%20.ipynb)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data analytics with Power BI</b>
