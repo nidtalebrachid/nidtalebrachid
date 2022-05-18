@@ -8,7 +8,7 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
   - [unsupervised Machin Learning (Customers Segmentation) with Python](https://github.com/nidtalebrachid/Python-Projects/tree/main/Customers%20Segmentation%20using%20Unsupervised%20%20Machin%20Learning)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Data analytics with Power BI</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
