@@ -12,7 +12,7 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
   - [Human Resources](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Human%20Resources)
   - [Income Statement](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Income%20Statement)
   - [Logistic Fleet Managment](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Logistic%20Fleet%20Management)
-  - [Managment Sales Reports ]([https://github.com/joshmadakor1/PowerShell-Integrity-FIM](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/MANAGEMENT%20SALES%20REPORT))
+  - [Managment Sales Reports](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [HPN B2B Business Project](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/HPN%20Project)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
