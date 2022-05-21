@@ -22,10 +22,14 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
 
 
 
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-: https://www.linkedin.com/in/rachid-nid-taleb-71117a23/
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+
+[linkedin]: https://www.linkedin.com/in/rachid-nid-taleb-71117a23/
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
