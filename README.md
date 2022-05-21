@@ -15,6 +15,7 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
   - [Logistic Fleet Managment](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Logistic%20Fleet%20Management)
   - [Managment Sales Reports](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/MANAGEMENT%20SALES%20REPORT)
   - [HPN B2B Business Project](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/HPN%20Project)
+  - [Power BI Dashboard Project](https://github.com/nidtalebrachid/Power-BI-Projects)      
 
 
 
