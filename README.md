@@ -23,7 +23,7 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
 
 
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-: https://linkedin.com/in/joshmadakor
+: https://www.linkedin.com/in/rachid-nid-taleb-71117a23/
 
 
 
