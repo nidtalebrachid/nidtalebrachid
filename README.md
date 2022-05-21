@@ -8,8 +8,6 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
   - [Unsupervised Machin Learning (Customers Segmentation) with Python](https://github.com/nidtalebrachid/Python-Projects/tree/main/Customers%20Segmentation%20using%20Unsupervised%20%20Machin%20Learning)
   - [Supervised Machin Learning (Bank Marketing) with Python](https://github.com/nidtalebrachid/Python-Projects/blob/main/Bank%20Marketing/Bank%20Marketing.ipynb)
   -  [Employee Turnover with Python](https://github.com/nidtalebrachid/Python-Projects/blob/main/Employee%20Turnover/employees%20turnover%20.ipynb)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data analytics with Power BI</b>
   - [BI Projects](https://github.com/nidtalebrachid/Power-BI-Projects)
   - [Human Resources](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Human%20Resources)
@@ -17,12 +15,6 @@ Having a technical background and hold a Master of Science (M.S) degree in chemi
   - [Logistic Fleet Managment](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/Logistic%20Fleet%20Management)
   - [Managment Sales Reports](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/MANAGEMENT%20SALES%20REPORT)
   - [HPN B2B Business Project](https://github.com/nidtalebrachid/Power-BI-Projects/tree/main/HPN%20Project)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
