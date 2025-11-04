@@ -27,7 +27,8 @@ Having a technical background and hold a Master of Science (M.S)  (Hassan II Uni
 
 
 
- https://www.linkedin.com/in/rachid-nid-taleb-71117a23/
+
+ https://www.linkedin.com/in/rachid-nid-taleb/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
